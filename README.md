@@ -14,7 +14,7 @@ I built a custom "Big Integer" algorithm from scratch in C++. Instead of treatin
 ## The "Stress Test"
 I tested the algorithm by requesting the **99,999th term**.
 - **Result Length:** A number with **20,898 digits**.
-- **Digit Sum:** The sum of all those digits was **94,724**.
+- **Digit Sum:** The sum of all those digits was **94,606**.
 - **Execution Time:** About the time it takes to smoke two rolled cigarettes (while staring at the cursor matching my heartbeat).
 
 ## How to Run
